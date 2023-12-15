@@ -82,7 +82,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [DotEspartoORGForPersonal/azureterraform](https://github.com/DotEspartoORGForPersonal/azureterraform)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|54<br/>Tools used|12/01/23 <br/>Report generated|
+|54<br/>Tools used|12/15/23 <br/>Report generated|
 |------|------|
 </div>
 
@@ -220,7 +220,7 @@ Full tech stack [here](/techstack.md)
   <br>
   <sub><a href="https://github.com/stretchr/testify">Testify</a></sub>
   <br>
-  <sub></sub>
+  <sub>v1.8.1</sub>
 </td>
 
 <td align='center'>
@@ -491,15 +491,15 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[bufs](https://pkg.go.dev/github.com/cznic/bufs)|v0.2.0|N/A|N/A |BSD-3-Clause|N/A|
-|[fsnotify](https://pkg.go.dev/github.com/fsnotify/fsnotify)|v1.0.1|N/A|N/A |BSD-3-Clause|N/A|
-|[gopass](https://pkg.go.dev/github.com/howeyc/gopass)|v1.0.2|N/A|N/A |ISC|N/A|
-|[json-patch](https://pkg.go.dev/github.com/evanphx/json-patch)|v0.5.8|N/A|N/A |BSD-3-Clause|N/A|
-|[pbkdf2](https://pkg.go.dev/golang.org/x/crypto/pbkdf2)|v0.0.0|N/A|N/A |BSD-3-Clause|N/A|
-|[pkcs11](https://pkg.go.dev/github.com/miekg/pkcs11)|v1.0.0|N/A|N/A |BSD-3-Clause|N/A|
-|[protocol/ec2query](https://pkg.go.dev/github.com/aws/aws-sdk-go/internal/protocol/ec2query)|v1.0.0|N/A|N/A |Apache-2.0|N/A|
-|[swift](https://pkg.go.dev/github.com/ncw/swift)|v1.14.0|N/A|N/A |MIT|N/A|
-|[virtualmachinedisk](https://pkg.go.dev/github.com/Azure/azure-sdk-for-go/management/virtualmachinedisk)|v1.0.1|N/A|N/A |MIT|N/A|
+|[bufs](https://pkg.go.dev/github.com/cznic/bufs)|v0.2.0|02/04/23|lonegunmanb |BSD-3-Clause|N/A|
+|[fsnotify](https://pkg.go.dev/github.com/fsnotify/fsnotify)|v1.0.1|02/04/23|lonegunmanb |BSD-3-Clause|N/A|
+|[gopass](https://pkg.go.dev/github.com/howeyc/gopass)|v1.0.2|02/04/23|lonegunmanb |ISC|N/A|
+|[json-patch](https://pkg.go.dev/github.com/evanphx/json-patch)|v0.5.8|02/04/23|lonegunmanb |BSD-3-Clause|N/A|
+|[pbkdf2](https://pkg.go.dev/golang.org/x/crypto/pbkdf2)|v0.0.0|02/04/23|lonegunmanb |BSD-3-Clause|N/A|
+|[pkcs11](https://pkg.go.dev/github.com/miekg/pkcs11)|v1.0.0|02/04/23|lonegunmanb |BSD-3-Clause|N/A|
+|[protocol/ec2query](https://pkg.go.dev/github.com/aws/aws-sdk-go/internal/protocol/ec2query)|v1.0.0|02/04/23|lonegunmanb |Apache-2.0|N/A|
+|[swift](https://pkg.go.dev/github.com/ncw/swift)|v1.14.0|02/04/23|lonegunmanb |MIT|N/A|
+|[virtualmachinedisk](https://pkg.go.dev/github.com/Azure/azure-sdk-for-go/management/virtualmachinedisk)|v1.0.1|02/04/23|lonegunmanb |MIT|N/A|
 
 <br/>
 <div align='center'>
